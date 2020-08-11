@@ -62,3 +62,6 @@ dtparam=audio=on
 
 [all]
 #dtoverlay=vc4-fkms-v3d
+
+# NOOBS Auto-generated Settings:
+hdmi_force_hotplug=1
